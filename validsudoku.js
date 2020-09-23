@@ -41,4 +41,4 @@ for (let i = 0; i < 9; i++) {
     boxes.clear()
 }
     
-    return true
+return true
